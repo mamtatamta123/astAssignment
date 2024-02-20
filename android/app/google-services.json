@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "526442517173",
+    "project_id": "astassignment",
+    "storage_bucket": "astassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526442517173:android:6cf44733bbc78fd3f524fc",
+        "android_client_info": {
+          "package_name": "com.astassignmenttask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526442517173-bv3okmiah0cvkf91d1knvfd6154kr1dl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.astassignmenttask",
+            "certificate_hash": "676e85848aa40b9166a3822e63189018171b1c43"
+          }
+        },
+        {
+          "client_id": "526442517173-bt1hi67tflqe8ejjmi7o9fvbn56t5777.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUaByPHzP6fSd-GIMmnHa3EjeM5u5P4bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526442517173-bt1hi67tflqe8ejjmi7o9fvbn56t5777.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
