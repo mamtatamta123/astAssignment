@@ -5,6 +5,7 @@ import {NavigationContainer} from '@react-navigation/native';
 import ScreenStack from './src/Shells/ScreenStack';
 import HomeScreen from './src/screens/HomeScreen';
 const App = () => {
+  console.log('test');
   return (
     <NavigationContainer>
       <ScreenStack />
